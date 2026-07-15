@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jzdagong
-- 👀 I’m interested in coding with js,vue,python
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in coding with blender,Aftereffects，photoshop，Apple Creator Studio，python
+- 🌱 I’m currently learning 3D art working ,motion graphics, video shot.
+- 💞️ I’m looking to collaborate on customer services, Brand Ident build
 - 📫 How to reach me ...
 
 <!---
